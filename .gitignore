@@ -1,0 +1,10 @@
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+build/
+install/
+log/
+.DS_Store
+*.zip
+*.bag
